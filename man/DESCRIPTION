@@ -1,0 +1,13 @@
+Package: FirstPackage
+Type: Package
+Title: ThisIsTheFirstPackage
+Version: 0.1.0
+Author: SM
+Maintainer: SM <SM@SM.net>
+Description: Fill in the blanks
+License: 
+Encoding: UTF-8
+LazyData: FALSE
+Imports:
+Suggests:
+RoxygenNote: 7.2.3
